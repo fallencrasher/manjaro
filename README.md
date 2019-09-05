@@ -27,4 +27,4 @@ Here to select your fastest mirror source.
 sudo pacman-mirrors -i -c China -m rank
 ```
 Then you can append a mirror source in `/etc/pacman.conf`.
-I have put this setting in a file [config.sh](https://github.com/fallencrasher/manjaro-set/blob/master/config.sh)
+I have put this setting in a file [config.sh](https://github.com/fallencrasher/manjaro/blob/master/config.sh)

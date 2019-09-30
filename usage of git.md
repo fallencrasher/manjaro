@@ -1,6 +1,6 @@
 # **Git常用命令及方法大全**
 
- 
+Github has it's own desktop virsion. In my view, you don't need to use a command line if you have a software with UI.
 
 >  
 >
